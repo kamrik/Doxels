@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>doxel</string>
+	</array>
+	<key>name</key>
+	<string>Doxel</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>(^\.).*$\n?</string>
+			<key>name</key>
+			<string>string.quoted.doxel</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>text.doxel</string>
+	<key>uuid</key>
+	<string>3bbcad0d-44e5-47c4-85fd-795da931d8a0</string>
+</dict>
+</plist>

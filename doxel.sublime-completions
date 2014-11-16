@@ -1,0 +1,10 @@
+{
+        "scope": "text.doxel string.quoted.doxel",
+        "completions":
+        [
+        	"todo",
+        	"easy",
+        	"athome",
+        	"someday"
+        ]
+}
